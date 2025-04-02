@@ -46,7 +46,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(165, 140);
+            label1.Location = new Point(7, 18);
             label1.Name = "label1";
             label1.Size = new Size(123, 20);
             label1.TabIndex = 0;
@@ -55,7 +55,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(221, 180);
+            label2.Location = new Point(63, 58);
             label2.Name = "label2";
             label2.Size = new Size(55, 20);
             label2.TabIndex = 1;
@@ -64,7 +64,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(221, 227);
+            label3.Location = new Point(63, 105);
             label3.Name = "label3";
             label3.Size = new Size(50, 20);
             label3.TabIndex = 2;
@@ -73,7 +73,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(221, 274);
+            label4.Location = new Point(63, 152);
             label4.Name = "label4";
             label4.Size = new Size(52, 20);
             label4.TabIndex = 3;
@@ -82,7 +82,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(166, 320);
+            label5.Location = new Point(8, 198);
             label5.Name = "label5";
             label5.Size = new Size(122, 20);
             label5.TabIndex = 4;
@@ -90,35 +90,35 @@
             // 
             // txtNome
             // 
-            txtNome.Location = new Point(294, 137);
+            txtNome.Location = new Point(136, 15);
             txtNome.Name = "txtNome";
             txtNome.Size = new Size(125, 27);
             txtNome.TabIndex = 5;
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(294, 180);
+            txtEmail.Location = new Point(136, 58);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(125, 27);
             txtEmail.TabIndex = 6;
             // 
             // txtIdade
             // 
-            txtIdade.Location = new Point(294, 220);
+            txtIdade.Location = new Point(136, 98);
             txtIdade.Name = "txtIdade";
             txtIdade.Size = new Size(125, 27);
             txtIdade.TabIndex = 7;
             // 
             // txtSenha
             // 
-            txtSenha.Location = new Point(294, 271);
+            txtSenha.Location = new Point(136, 149);
             txtSenha.Name = "txtSenha";
             txtSenha.Size = new Size(125, 27);
             txtSenha.TabIndex = 8;
             // 
             // txtConfirmar
             // 
-            txtConfirmar.Location = new Point(294, 317);
+            txtConfirmar.Location = new Point(136, 195);
             txtConfirmar.Name = "txtConfirmar";
             txtConfirmar.Size = new Size(125, 27);
             txtConfirmar.TabIndex = 9;
@@ -126,7 +126,7 @@
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(294, 363);
+            checkBox1.Location = new Point(303, 101);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(129, 24);
             checkBox1.TabIndex = 10;
@@ -135,7 +135,7 @@
             // 
             // btnEnviar
             // 
-            btnEnviar.Location = new Point(246, 401);
+            btnEnviar.Location = new Point(188, 244);
             btnEnviar.Name = "btnEnviar";
             btnEnviar.Size = new Size(94, 29);
             btnEnviar.TabIndex = 11;
@@ -145,7 +145,7 @@
             // 
             // btnLimpar
             // 
-            btnLimpar.Location = new Point(358, 401);
+            btnLimpar.Location = new Point(88, 244);
             btnLimpar.Name = "btnLimpar";
             btnLimpar.Size = new Size(94, 29);
             btnLimpar.TabIndex = 12;
@@ -156,7 +156,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(440, 306);
             Controls.Add(btnLimpar);
             Controls.Add(btnEnviar);
             Controls.Add(checkBox1);
